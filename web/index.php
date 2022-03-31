@@ -157,7 +157,7 @@
             <li>
               <div class="title">2022</div>
               <div class="details">
-                <h5>bsc COMPUTER SCIENCE</h5>
+                <h5>B.SC COMPUTER SCIENCE</h5>
                 <small class="fg-theme">Karpagam University</small>
                 <p> CGPA-8 </p>
               </div>
